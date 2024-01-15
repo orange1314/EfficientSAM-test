@@ -289,7 +289,7 @@ IoU（交集過聯合比，Intersection over Union）是一種常用於評估圖
 
 假設我們有預測分割掩碼（或邊界框）A和真實分割掩碼（或邊界框）B，IoU 計算公式如下：
 
-$ IoU = \frac{區域(A \cap B)}{區域(A \cup B)} $
+$$ IoU = \frac{區域(A \cap B)}{區域(A \cup B)} $$
 
 其中：
 -  $ A \cap B $ 表示 A 和 B 的交集，即兩者重疊的部分。
