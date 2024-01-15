@@ -292,8 +292,8 @@ IoU（交集過聯合比，Intersection over Union）是一種常用於評估圖
 $ IoU = \frac{區域(A \cap B)}{區域(A \cup B)} $
 
 其中：
-- $ A \cap B $ 表示 A 和 B 的交集，即兩者重疊的部分。
-- $ A \cup B $ 表示 A 和 B 的聯集，即兩者總共覆蓋的區域。
+-  $ A \cap B $ 表示 A 和 B 的交集，即兩者重疊的部分。
+-  $ A \cup B $ 表示 A 和 B 的聯集，即兩者總共覆蓋的區域。
 
 ### IoU 的值範圍
 
