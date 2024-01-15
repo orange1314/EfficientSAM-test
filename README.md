@@ -457,10 +457,6 @@ plt.show()
 
 
 
-```python
-
-```
-
 
 @article{xiong2023efficientsam,
   title={EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything},
