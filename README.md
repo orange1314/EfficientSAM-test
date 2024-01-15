@@ -421,7 +421,7 @@ plt.show()
 fig, ax = plt.subplots(1, 3, figsize=(30, 30))
 
 input_label = np.array([1, 1])
-image_path = r"C:\Users\B20770\Desktop\影像資料\006.wound_dataset_壢新醫院\images\175732.jpg"
+image_path = your path
 input_point = np.array([[170, 200], [380, 220]])
 image = np.array(Image.open(image_path))
 show_points(input_point, input_label, ax[0])
