@@ -460,3 +460,11 @@ plt.show()
 ```python
 
 ```
+
+
+@article{xiong2023efficientsam,
+  title={EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything},
+  author={Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra},
+  journal={arXiv:2312.00863},
+  year={2023}
+}
